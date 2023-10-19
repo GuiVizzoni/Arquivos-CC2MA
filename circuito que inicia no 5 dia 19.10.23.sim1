@@ -14,7 +14,7 @@
 
 <item itemtype="Fixed Voltage" CircId="Fixed Voltage-239" mainComp="false" Show_id="false" Show_Val="false" Pos="812,452" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-239" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
 
-<item itemtype="SwitchDip" CircId="SwitchDip-247" mainComp="false" Show_id="false" Show_Val="false" Pos="904,472" rotation="90" hflip="1" vflip="1" label="SwitchDip-247" idLabPos="-16,-44" labelrot="0" valLabPos="-16,20" valLabRot="0" Size="3 _Switches" State="253" />
+<item itemtype="SwitchDip" CircId="SwitchDip-247" mainComp="false" Show_id="false" Show_Val="false" Pos="904,472" rotation="90" hflip="1" vflip="1" label="SwitchDip-247" idLabPos="-16,-44" labelrot="0" valLabPos="-16,20" valLabRot="0" Size="3 _Switches" State="255" />
 
 <item itemtype="Push" CircId="Push-261" mainComp="false" Show_id="false" Show_Val="false" Pos="868,452" rotation="0" hflip="1" vflip="1" label="Push-261" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Poles" />
 
@@ -26,44 +26,44 @@
 
 <item itemtype="Node" CircId="Node-265" mainComp="false" Pos="912,452" />
 
-<item itemtype="Connector" uid="connector-57" startpinid="FlipFlopD-3-in0" endpinid="Node-18-0" pointList="832,568,832,544,888,544,888,560" />
+<item itemtype="Connector" uid="connector-266" startpinid="FlipFlopD-3-in0" endpinid="Node-18-0" pointList="832,568,832,544,888,544,888,560" />
 
-<item itemtype="Connector" uid="connector-58" startpinid="Node-18-2" endpinid="FlipFlopD-3-out1" pointList="888,560,888,576,872,576" />
+<item itemtype="Connector" uid="connector-267" startpinid="Node-18-2" endpinid="FlipFlopD-3-out1" pointList="888,560,888,576,872,576" />
 
-<item itemtype="Connector" uid="connector-59" startpinid="Node-18-1" endpinid="FlipFlopD-4-in3" pointList="888,560,892,560,892,576,912,576" />
+<item itemtype="Connector" uid="connector-268" startpinid="Node-18-1" endpinid="FlipFlopD-4-in3" pointList="888,560,892,560,892,576,912,576" />
 
-<item itemtype="Connector" uid="connector-76" startpinid="Node-56-1" endpinid="FlipFlopD-3-in3" pointList="804,564,820,564,820,576,832,576" />
+<item itemtype="Connector" uid="connector-269" startpinid="Node-56-1" endpinid="FlipFlopD-3-in3" pointList="804,564,820,564,820,576,832,576" />
 
-<item itemtype="Connector" uid="connector-60" startpinid="FlipFlopD-4-in0" endpinid="FlipFlopD-4-out1" pointList="912,568,912,544,964,544,964,576,952,576" />
+<item itemtype="Connector" uid="connector-270" startpinid="FlipFlopD-4-in0" endpinid="FlipFlopD-4-out1" pointList="912,568,912,544,964,544,964,576,952,576" />
 
-<item itemtype="Connector" uid="connector-74" startpinid="FlipFlopD-2-in0" endpinid="Node-56-0" pointList="748,568,748,532,804,532,804,564" />
+<item itemtype="Connector" uid="connector-271" startpinid="FlipFlopD-2-in0" endpinid="Node-56-0" pointList="748,568,748,532,804,532,804,564" />
 
-<item itemtype="Connector" uid="Connector-231" startpinid="FlipFlopD-4-out0" endpinid="7-Seg BCD-219-in2" pointList="952,568,952,536,1032,536,1032,500" />
+<item itemtype="Connector" uid="connector-272" startpinid="FlipFlopD-4-out0" endpinid="7-Seg BCD-219-in2" pointList="952,568,952,536,1032,536,1032,500" />
 
-<item itemtype="Connector" uid="Connector-232" startpinid="FlipFlopD-3-out0" endpinid="7-Seg BCD-219-in1" pointList="872,568,872,512,1040,512,1040,500" />
+<item itemtype="Connector" uid="connector-273" startpinid="FlipFlopD-3-out0" endpinid="7-Seg BCD-219-in1" pointList="872,568,872,512,1040,512,1040,500" />
 
-<item itemtype="Connector" uid="connector-75" startpinid="Node-56-2" endpinid="FlipFlopD-2-out1" pointList="804,564,804,576,788,576" />
+<item itemtype="Connector" uid="connector-274" startpinid="Node-56-2" endpinid="FlipFlopD-2-out1" pointList="804,564,804,576,788,576" />
 
-<item itemtype="Connector" uid="connector-69" startpinid="FlipFlopD-2-out0" endpinid="7-Seg BCD-219-in0" pointList="788,568,788,524,1048,524,1048,500" />
+<item itemtype="Connector" uid="connector-275" startpinid="FlipFlopD-2-out0" endpinid="7-Seg BCD-219-in0" pointList="788,568,788,524,1048,524,1048,500" />
 
-<item itemtype="Connector" uid="Connector-235" startpinid="FlipFlopD-2-in3" endpinid="Fixed Voltage-45-outnod" pointList="748,576,676,576" />
+<item itemtype="Connector" uid="connector-276" startpinid="FlipFlopD-2-in3" endpinid="Fixed Voltage-45-outnod" pointList="748,576,676,576" />
 
-<item itemtype="Connector" uid="Connector-250" startpinid="Node-249-2" endpinid="SwitchDip-247-switch0-pinP" pointList="920,452,928,452,928,464" />
+<item itemtype="Connector" uid="connector-277" startpinid="Node-249-2" endpinid="SwitchDip-247-switch0-pinP" pointList="920,452,928,452,928,464" />
 
-<item itemtype="Connector" uid="Connector-251" startpinid="Node-249-1" endpinid="SwitchDip-247-switch1-pinP" pointList="920,452,920,464" />
+<item itemtype="Connector" uid="connector-278" startpinid="Node-249-1" endpinid="SwitchDip-247-switch1-pinP" pointList="920,452,920,464" />
 
-<item itemtype="Connector" uid="Connector-258" startpinid="SwitchDip-247-switch2-pinN" endpinid="FlipFlopD-2-in1" pointList="912,488,764,488,764,552" />
+<item itemtype="Connector" uid="connector-279" startpinid="SwitchDip-247-switch2-pinN" endpinid="FlipFlopD-2-in1" pointList="912,488,764,488,764,552" />
 
-<item itemtype="Connector" uid="Connector-259" startpinid="SwitchDip-247-switch0-pinN" endpinid="FlipFlopD-4-in1" pointList="928,488,928,552" />
+<item itemtype="Connector" uid="connector-280" startpinid="SwitchDip-247-switch0-pinN" endpinid="FlipFlopD-4-in1" pointList="928,488,928,552" />
 
-<item itemtype="Connector" uid="Connector-260" startpinid="SwitchDip-247-switch1-pinN" endpinid="FlipFlopD-3-in1" pointList="920,488,920,500,848,500,848,552" />
+<item itemtype="Connector" uid="connector-282" startpinid="Push-261-switch0pinN" endpinid="Node-265-0" pointList="884,452,912,452" />
 
-<item itemtype="Connector" uid="Connector-262" startpinid="Push-261-switch0pinN" endpinid="Node-265-0" pointList="884,452,912,452" />
+<item itemtype="Connector" uid="connector-283" startpinid="Node-265-2" endpinid="Node-249-0" pointList="912,452,920,452" />
 
-<item itemtype="Connector" uid="Connector-266" startpinid="Node-265-2" endpinid="Node-249-0" pointList="912,452,920,452" />
+<item itemtype="Connector" uid="connector-284" startpinid="Node-265-1" endpinid="SwitchDip-247-switch2-pinP" pointList="912,452,912,464" />
 
-<item itemtype="Connector" uid="Connector-267" startpinid="Node-265-1" endpinid="SwitchDip-247-switch2-pinP" pointList="912,452,912,464" />
+<item itemtype="Connector" uid="connector-285" startpinid="Push-261-pinP0" endpinid="Fixed Voltage-239-outnod" pointList="852,452,828,452" />
 
-<item itemtype="Connector" uid="Connector-268" startpinid="Push-261-pinP0" endpinid="Fixed Voltage-239-outnod" pointList="852,452,828,452" />
+<item itemtype="Connector" uid="Connector-286" startpinid="SwitchDip-247-switch1-pinN" endpinid="FlipFlopD-3-in2" pointList="920,488,920,504,900,504,900,596,856,596,856,592" />
 
 </circuit>
